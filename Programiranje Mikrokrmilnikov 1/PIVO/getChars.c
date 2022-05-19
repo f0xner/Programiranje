@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//sprememba
 int getChars(char *str);
 int vrstniRed(char *znaki);
 int main(void){
