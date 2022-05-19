@@ -1,0 +1,9 @@
+#!/bin/bash
+curl -X 'GET' \
+  'https://api.coingecko.com/api/v3/coins/markets?vs_currency=eur&ids=ripple&order=market_cap_desc&per_page=100&page=1&sparkline=false' \
+  -H 'accept: application/json' | jq '.' | grep -e "current_price" -e "high_24h" -e "low_24h" -e "price_change_percentage_24h"
+sleep 5
+curl -X 'GET' \
+  'https://api.coingecko.com/api/v3/coins/markets?vs_currency=eur&ids=bitcoin&order=market_cap_desc&per_page=100&page=1&sparkline=false' \
+  -H 'accept: application/json' | jq '.' | grep -e "current_price" -e "high_24h" -e "low_24h" -e "price_change_percentage_24h"
+sleep 5

@@ -1,0 +1,777 @@
+{
+    "day0": {
+        "total hours": 3.23,
+        "apps": {
+            "app1": {
+                "app": "DuckDuckGo",
+                "hours": 0.87
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 0.63
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 0.33
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.25
+            },
+            "app5": {
+                "app": "Brave",
+                "hours": 0.15
+            }
+        }
+    },
+    "day1": {
+        "total hours": 3.7,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.27
+            },
+            "app2": {
+                "app": "Reddit",
+                "hours": 0.45
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.42
+            },
+            "app4": {
+                "app": "Brawl Stars",
+                "hours": 0.37
+            },
+            "app5": {
+                "app": "Revolut",
+                "hours": 0.32
+            }
+        }
+    },
+    "day2": {
+        "total hours": 4.08,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 1.38
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 0.95
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.33
+            },
+            "app4": {
+                "app": "Brave",
+                "hours": 0.22
+            },
+            "app5": {
+                "app": "WhatsApp",
+                "hours": 0.13
+            }
+        }
+    },
+    "day3": {
+        "total hours": 4.38,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.62
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 0.78
+            },
+            "app3": {
+                "app": "Reddit",
+                "hours": 0.42
+            },
+            "app4": {
+                "app": "DuckDuckGo",
+                "hours": 0.28
+            },
+            "app5": {
+                "app": "Brave",
+                "hours": 0.2
+            }
+        }
+    },
+    "day4": {
+        "total hours": 3.67,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 0.67
+            },
+            "app2": {
+                "app": "Brave",
+                "hours": 0.63
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.38
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.38
+            },
+            "app5": {
+                "app": "Good Pirate",
+                "hours": 0.3
+            }
+        }
+    },
+    "day5": {
+        "total hours": 3.07,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 0.9
+            },
+            "app2": {
+                "app": "Reddit",
+                "hours": 0.88
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.3
+            },
+            "app4": {
+                "app": "Revolut",
+                "hours": 0.17
+            },
+            "app5": {
+                "app": "Instagram",
+                "hours": 0.08
+            }
+        }
+    },
+    "day6": {
+        "total hours": 4.97,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 3.22
+            },
+            "app2": {
+                "app": "Reddit",
+                "hours": 0.52
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 0.43
+            },
+            "app4": {
+                "app": "Revolut",
+                "hours": 0.17
+            },
+            "app5": {
+                "app": "Snapchat",
+                "hours": 0.12
+            }
+        }
+    },
+    "day7": {
+        "total hours": 2.77,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.35
+            },
+            "app2": {
+                "app": "Reddit",
+                "hours": 0.52
+            },
+            "app3": {
+                "app": "TradingView",
+                "hours": 0.13
+            },
+            "app4": {
+                "app": "Settings",
+                "hours": 0.1
+            },
+            "app5": {
+                "app": "WhatsApp",
+                "hours": 0.07
+            }
+        }
+    },
+    "day8": {
+        "total hours": 3.75,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.2
+            },
+            "app2": {
+                "app": "ISPS",
+                "hours": 0.77
+            },
+            "app3": {
+                "app": "Revolut",
+                "hours": 0.38
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.35
+            },
+            "app5": {
+                "app": "WhatsApp",
+                "hours": 0.13
+            }
+        }
+    },
+    "day9": {
+        "total hours": 3.43,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 0.77
+            },
+            "app2": {
+                "app": "Revolut",
+                "hours": 0.53
+            },
+            "app3": {
+                "app": "Contacts and dialer",
+                "hours": 0.52
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.52
+            },
+            "app5": {
+                "app": "Brawl Stars",
+                "hours": 0.18
+            }
+        }
+    },
+    "day10": {
+        "total hours": 2.87,
+        "apps": {
+            "app1": {
+                "app": "Messenger",
+                "hours": 0.57
+            },
+            "app2": {
+                "app": "DuckDuckGo",
+                "hours": 0.38
+            },
+            "app3": {
+                "app": "Reddit",
+                "hours": 0.27
+            },
+            "app4": {
+                "app": "Excel",
+                "hours": 0.25
+            },
+            "app5": {
+                "app": "Gallery",
+                "hours": 0.22
+            }
+        }
+    },
+    "day11": {
+        "total hours": 4.63,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 2.03
+            },
+            "app2": {
+                "app": "Reddit",
+                "hours": 0.72
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.4
+            },
+            "app4": {
+                "app": "Brave",
+                "hours": 0.4
+            },
+            "app5": {
+                "app": "Spotify",
+                "hours": 0.17
+            }
+        }
+    },
+    "day12": {
+        "total hours": 2.48,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 0.57
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 0.55
+            },
+            "app3": {
+                "app": "YouTube Vanced",
+                "hours": 0.42
+            },
+            "app4": {
+                "app": "WhatsApp",
+                "hours": 0.2
+            },
+            "app5": {
+                "app": "Messenger",
+                "hours": 0.13
+            }
+        }
+    },
+    "day13": {
+        "total hours": 1.97,
+        "apps": {
+            "app1": {
+                "app": "Brawl Stars",
+                "hours": 0.6
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 0.28
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.2
+            },
+            "app4": {
+                "app": "Messaging",
+                "hours": 0.17
+            },
+            "app5": {
+                "app": "Reddit",
+                "hours": 0.15
+            }
+        }
+    },
+    "day14": {
+        "total hours": 2.07,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 0.6
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 0.38
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.28
+            },
+            "app4": {
+                "app": "Brawl Stars",
+                "hours": 0.13
+            },
+            "app5": {
+                "app": "Instagram",
+                "hours": 0.1
+            }
+        }
+    },
+    "day15": {
+        "total hours": 3.23,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.07
+            },
+            "app2": {
+                "app": "WhatsApp",
+                "hours": 0.83
+            },
+            "app3": {
+                "app": "Reddit",
+                "hours": 0.37
+            },
+            "app4": {
+                "app": "Gmail",
+                "hours": 0.18
+            },
+            "app5": {
+                "app": "Calculator",
+                "hours": 0.1
+            }
+        }
+    },
+    "day16": {
+        "total hours": 3.97,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.83
+            },
+            "app2": {
+                "app": "Reddit",
+                "hours": 0.62
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 0.5
+            },
+            "app4": {
+                "app": "DuckDuckGo",
+                "hours": 0.38
+            },
+            "app5": {
+                "app": "Brave",
+                "hours": 0.22
+            }
+        }
+    },
+    "day17": {
+        "total hours": 6.1,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.63
+            },
+            "app2": {
+                "app": "Sudoku",
+                "hours": 1.53
+            },
+            "app3": {
+                "app": "DuckDuckGo",
+                "hours": 0.62
+            },
+            "app4": {
+                "app": "Brave",
+                "hours": 0.33
+            },
+            "app5": {
+                "app": "Reddit",
+                "hours": 0.3
+            }
+        }
+    },
+    "day18": {
+        "total hours": 3.48,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.18
+            },
+            "app2": {
+                "app": "Sudoku",
+                "hours": 1.02
+            },
+            "app3": {
+                "app": "Revolut",
+                "hours": 0.3
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.27
+            },
+            "app5": {
+                "app": "WhatsApp",
+                "hours": 0.18
+            }
+        }
+    },
+    "day19": {
+        "total hours": 2.73,
+        "apps": {
+            "app1": {
+                "app": "Brawl Stars",
+                "hours": 0.45
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 0.45
+            },
+            "app3": {
+                "app": "Reddit",
+                "hours": 0.37
+            },
+            "app4": {
+                "app": "Messaging",
+                "hours": 0.2
+            },
+            "app5": {
+                "app": "Revolut",
+                "hours": 0.18
+            }
+        }
+    },
+    "day20": {
+        "total hours": 2.93,
+        "apps": {
+            "app1": {
+                "app": "Solitaire",
+                "hours": 0.8
+            },
+            "app2": {
+                "app": "Bud Farm",
+                "hours": 0.48
+            },
+            "app3": {
+                "app": "Messaging",
+                "hours": 0.23
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.18
+            },
+            "app5": {
+                "app": "WhatsApp",
+                "hours": 0.15
+            }
+        }
+    },
+    "day21": {
+        "total hours": 2.82,
+        "apps": {
+            "app1": {
+                "app": "Bud Farm",
+                "hours": 1.07
+            },
+            "app2": {
+                "app": "Solitaire",
+                "hours": 0.6
+            },
+            "app3": {
+                "app": "Reddit",
+                "hours": 0.25
+            },
+            "app4": {
+                "app": "Brawl Stars",
+                "hours": 0.17
+            },
+            "app5": {
+                "app": "Snapchat",
+                "hours": 0.08
+            }
+        }
+    },
+    "day22": {
+        "total hours": 1.81,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 0.6
+            },
+            "app2": {
+                "app": "Solitaire",
+                "hours": 0.42
+            },
+            "app3": {
+                "app": "Bud Farm",
+                "hours": 0.38
+            },
+            "app4": {
+                "app": "Brawl Stars",
+                "hours": 0.23
+            },
+            "app5": {
+                "app": "DuckDuckGo",
+                "hours": 0.18
+            }
+        }
+    },
+    "day23": {
+        "total hours": 3.58,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.1
+            },
+            "app2": {
+                "app": "Solitaire",
+                "hours": 0.88
+            },
+            "app3": {
+                "app": "Reddit",
+                "hours": 0.75
+            },
+            "app4": {
+                "app": "Bud Farm",
+                "hours": 0.43
+            },
+            "app5": {
+                "app": "Wit Reader",
+                "hours": 0.42
+            }
+        }
+    },
+    "day24": {
+        "total hours": 1.35,
+        "apps": {
+            "app1": {
+                "app": "Sudoku",
+                "hours": 0.35
+            },
+            "app2": {
+                "app": "Play Store",
+                "hours": 0.28
+            },
+            "app3": {
+                "app": "Solitaire",
+                "hours": 0.28
+            },
+            "app4": {
+                "app": "Bud Farm",
+                "hours": 0.25
+            },
+            "app5": {
+                "app": "WhatsApp",
+                "hours": 0.17
+            }
+        }
+    },
+    "day25": {
+        "total hours": 0.6,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 0.15
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 0.13
+            },
+            "app3": {
+                "app": "WhatsApp",
+                "hours": 0.12
+            },
+            "app4": {
+                "app": "Bud Farm",
+                "hours": 0.12
+            },
+            "app5": {
+                "app": "Gallery",
+                "hours": 0.03
+            }
+        }
+    },
+    "day26": {
+        "total hours": 2.33,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 0.83
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 0.58
+            },
+            "app3": {
+                "app": "Brave",
+                "hours": 0.37
+            },
+            "app4": {
+                "app": "Revolut",
+                "hours": 0.33
+            },
+            "app5": {
+                "app": "Solitaire",
+                "hours": 0.22
+            }
+        }
+    },
+    "day27": {
+        "total hours": 1.54,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 0.42
+            },
+            "app2": {
+                "app": "Sudoku",
+                "hours": 0.37
+            },
+            "app3": {
+                "app": "Spotify",
+                "hours": 0.3
+            },
+            "app4": {
+                "app": "Instagram",
+                "hours": 0.28
+            },
+            "app5": {
+                "app": "Excel",
+                "hours": 0.17
+            }
+        }
+    },
+    "day28": {
+        "total hours": 1.58,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 0.45
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 0.43
+            },
+            "app3": {
+                "app": "YouTube Vanced",
+                "hours": 0.28
+            },
+            "app4": {
+                "app": "Sudoku",
+                "hours": 0.22
+            },
+            "app5": {
+                "app": "Snapchat",
+                "hours": 0.2
+            }
+        }
+    },
+    "day29": {
+        "total hours": 2.0,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 0.92
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 0.38
+            },
+            "app3": {
+                "app": "Brave",
+                "hours": 0.3
+            },
+            "app4": {
+                "app": "DuckDuckGo",
+                "hours": 0.2
+            },
+            "app5": {
+                "app": "Revolut",
+                "hours": 0.2
+            }
+        }
+    },
+    "day30": {
+        "total hours": 2.58,
+        "apps": {
+            "app1": {
+                "app": "Reddit",
+                "hours": 1.08
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 0.77
+            },
+            "app3": {
+                "app": "Sudoku",
+                "hours": 0.32
+            },
+            "app4": {
+                "app": "DuckDuckGo",
+                "hours": 0.23
+            },
+            "app5": {
+                "app": "Instagram",
+                "hours": 0.18
+            }
+        }
+    }
+}

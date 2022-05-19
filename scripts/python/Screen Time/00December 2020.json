@@ -1,0 +1,452 @@
+{
+    "day0": {
+        "total hours": 6.03,
+        "apps": {
+            "app1": {
+                "app": "Zoom",
+                "hours": 1.68
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 1.3
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 1.12
+            },
+            "app4": {
+                "app": "Moodle",
+                "hours": 0.53
+            },
+            "app5": {
+                "app": "Chrome",
+                "hours": 0.37
+            }
+        }
+    },
+    "day1": {
+        "total hours": 4.58,
+        "apps": {
+            "app1": {
+                "app": "Brawl Stars",
+                "hours": 1.27
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 1.15
+            },
+            "app3": {
+                "app": "Chrome",
+                "hours": 0.52
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.42
+            },
+            "app5": {
+                "app": "Zoom",
+                "hours": 0.37
+            }
+        }
+    },
+    "day2": {
+        "total hours": 7.72,
+        "apps": {
+            "app1": {
+                "app": "Zoom",
+                "hours": 2.17
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 1.87
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 1.45
+            },
+            "app4": {
+                "app": "Chrome",
+                "hours": 0.65
+            },
+            "app5": {
+                "app": "Reddit",
+                "hours": 0.53
+            }
+        }
+    },
+    "day3": {
+        "total hours": 7.47,
+        "apps": {
+            "app1": {
+                "app": "Zoom",
+                "hours": 2.03
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 1.42
+            },
+            "app3": {
+                "app": "PUBG MOBILE",
+                "hours": 0.88
+            },
+            "app4": {
+                "app": "Brawl Stars",
+                "hours": 0.73
+            },
+            "app5": {
+                "app": "Brave",
+                "hours": 0.67
+            }
+        }
+    },
+    "day4": {
+        "total hours": 8.17,
+        "apps": {
+            "app1": {
+                "app": "Zoom",
+                "hours": 2.15
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 2.08
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 1.28
+            },
+            "app4": {
+                "app": "Brave",
+                "hours": 0.7
+            },
+            "app5": {
+                "app": "Chrome",
+                "hours": 0.55
+            }
+        }
+    },
+    "day5": {
+        "total hours": 5.02,
+        "apps": {
+            "app1": {
+                "app": "Brawl Stars",
+                "hours": 1.23
+            },
+            "app2": {
+                "app": "PUBG MOBILE",
+                "hours": 0.8
+            },
+            "app3": {
+                "app": "YouTube Vanced",
+                "hours": 0.72
+            },
+            "app4": {
+                "app": "Brave",
+                "hours": 0.63
+            },
+            "app5": {
+                "app": "Chrome",
+                "hours": 0.43
+            }
+        }
+    },
+    "day6": {
+        "total hours": 6.43,
+        "apps": {
+            "app1": {
+                "app": "Brave",
+                "hours": 1.35
+            },
+            "app2": {
+                "app": "PUBG MOBILE",
+                "hours": 1.28
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 1.23
+            },
+            "app4": {
+                "app": "YouTube Vanced",
+                "hours": 0.63
+            },
+            "app5": {
+                "app": "Chrome",
+                "hours": 0.58
+            }
+        }
+    },
+    "day7": {
+        "total hours": 7.22,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 2.48
+            },
+            "app2": {
+                "app": "Zoom",
+                "hours": 1.6
+            },
+            "app3": {
+                "app": "Reddit",
+                "hours": 0.52
+            },
+            "app4": {
+                "app": "Brawl Stars",
+                "hours": 0.47
+            },
+            "app5": {
+                "app": "Messenger",
+                "hours": 0.45
+            }
+        }
+    },
+    "day8": {
+        "total hours": 8.05,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 2.53
+            },
+            "app2": {
+                "app": "Zoom",
+                "hours": 0.03
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 1.03
+            },
+            "app4": {
+                "app": "Hashi (Bridges)",
+                "hours": 0.67
+            },
+            "app5": {
+                "app": "Reddit",
+                "hours": 0.37
+            }
+        }
+    },
+    "day9": {
+        "total hours": 5.3,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 0.03
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 1.13
+            },
+            "app3": {
+                "app": "Brave",
+                "hours": 0.37
+            },
+            "app4": {
+                "app": "Zoom",
+                "hours": 0.37
+            },
+            "app5": {
+                "app": "Instagram",
+                "hours": 0.35
+            }
+        }
+    },
+    "day10": {
+        "total hours": 5.58,
+        "apps": {
+            "app1": {
+                "app": "File Manager",
+                "hours": 1.75
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 1.07
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 0.88
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.65
+            },
+            "app5": {
+                "app": "Brave",
+                "hours": 0.23
+            }
+        }
+    },
+    "day11": {
+        "total hours": 7.73,
+        "apps": {
+            "app1": {
+                "app": "File Manager",
+                "hours": 2.5
+            },
+            "app2": {
+                "app": "PUBG MOBILE",
+                "hours": 1.68
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 1.6
+            },
+            "app4": {
+                "app": "YouTube Vanced",
+                "hours": 0.63
+            },
+            "app5": {
+                "app": "Chrome",
+                "hours": 0.48
+            }
+        }
+    },
+    "day12": {
+        "total hours": 6.45,
+        "apps": {
+            "app1": {
+                "app": "Brawl Stars",
+                "hours": 1.87
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 1.8
+            },
+            "app3": {
+                "app": "PUBG MOBILE",
+                "hours": 0.85
+            },
+            "app4": {
+                "app": "File Manager",
+                "hours": 0.38
+            },
+            "app5": {
+                "app": "Reddit",
+                "hours": 0.37
+            }
+        }
+    },
+    "day13": {
+        "total hours": 5.98,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.43
+            },
+            "app2": {
+                "app": "File Manager",
+                "hours": 1.38
+            },
+            "app3": {
+                "app": "Brawl Stars",
+                "hours": 1.2
+            },
+            "app4": {
+                "app": "Chrome",
+                "hours": 0.6
+            },
+            "app5": {
+                "app": "Reddit",
+                "hours": 0.4
+            }
+        }
+    },
+    "day14": {
+        "total hours": 6.1,
+        "apps": {
+            "app1": {
+                "app": "Brawl Stars",
+                "hours": 1.32
+            },
+            "app2": {
+                "app": "YouTube Vanced",
+                "hours": 1.23
+            },
+            "app3": {
+                "app": "PUBG MOBILE",
+                "hours": 1.23
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.72
+            },
+            "app5": {
+                "app": "Chrome",
+                "hours": 0.47
+            }
+        }
+    },
+    "day15": {
+        "total hours": 5.65,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 2.5
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 0.73
+            },
+            "app3": {
+                "app": "Chrome",
+                "hours": 0.4
+            },
+            "app4": {
+                "app": "s8-si.ikariam.gameforge.com",
+                "hours": 0.15
+            },
+            "app5": {
+                "app": "lobby.ikariam.gameforge.com",
+                "hours": 0.02
+            }
+        }
+    },
+    "day16": {
+        "total hours": 0.12,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 2.98
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 1.42
+            },
+            "app3": {
+                "app": "Chess",
+                "hours": 0.73
+            },
+            "app4": {
+                "app": "lichess",
+                "hours": 0.6
+            },
+            "app5": {
+                "app": "File Manager",
+                "hours": 0.33
+            }
+        }
+    },
+    "day17": {
+        "total hours": 5.1,
+        "apps": {
+            "app1": {
+                "app": "YouTube Vanced",
+                "hours": 1.83
+            },
+            "app2": {
+                "app": "Brawl Stars",
+                "hours": 1.02
+            },
+            "app3": {
+                "app": "PUBG MOBILE",
+                "hours": 0.58
+            },
+            "app4": {
+                "app": "Reddit",
+                "hours": 0.42
+            },
+            "app5": {
+                "app": "Chrome",
+                "hours": 0.33
+            }
+        }
+    }
+}

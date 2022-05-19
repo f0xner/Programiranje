@@ -1,0 +1,241 @@
+40
+
+1
+PAVLOVCIC Bor
+Nd Ratece planica
+27 JUN 1998
+SLO
+
+2
+BARTOL Tilen
+SSK Sam Ihan
+17 APR 1997
+SLO
+
+3
+SEMENIC Anze
+NSK TRZIC FMG
+1 AUG 1993
+SLO
+
+4
+HOERL Jan
+SC Bischofshofen
+16 OCT 1998
+AUT
+
+5
+BOYD-CLOWES Mackenzie
+Altius Nordic Ski Club
+13 JUL 1991
+CAN
+
+6
+DESCHWANDEN Gregor
+Horw
+27 FEB 1991
+SUI
+
+7
+GRANERUD Halvor Egner
+Asker Skiklubb
+29 MAY 1996
+NOR
+
+8
+PEDERSEN Robin
+Stalkameratene Il
+31 AUG 1996
+NOR
+
+9
+BJOERENG Joacim Oedegaard
+Roeykenhopp
+14 DEC 1995
+NOR
+
+10
+STEKALA Andrzej
+Azs Zakopane
+30 JUN 1995
+POL
+
+11
+WOLNY Jakub
+LKS Klimczok Bystra
+15 MAY 1995
+POL
+
+12
+AMMANN Simon
+SSC Toggenburg
+25 JUN 1981
+SUI
+
+13
+PREVC Cene
+Sk Triglav kranj
+12 MAR 1996
+SLO
+
+14
+SCHMID Constantin
+Wsv Oberaudorf
+27 NOV 1999
+GER
+
+15
+AIGRO Artti
+Pohjakotkas
+29 AUG 1999
+EST
+
+16
+KYTOSAHO Niko
+Paimion urheilijat
+18 DEC 1999
+FIN
+
+17
+WELLINGER Andreas
+Sc Ruhpolding
+28 AUG 1995
+GER
+
+18
+KOS Lovro
+SSK Ilirija
+23 JUL 1999
+SLO
+
+19
+PREVC Domen
+Sk Triglav kranj
+4 JUN 1999
+SLO
+
+20
+TSCHOFENIG Daniel
+SV Achomitz-Zahomc
+28 MAR 2002
+AUT
+
+21
+HUBER Daniel
+SC Seekirchen-Salzburg
+2 JAN 1993
+AUT
+
+22
+STOCH Kamil
+KS Eve-nement Zakopane
+25 MAY 1987
+POL
+
+23
+FREUND Severin
+WSV DJK Rastbuechl
+11 MAY 1988
+GER
+
+24
+FETTNER Manuel
+SV Innsbruck-Bergisel-Tirol
+17 JUN 1985
+AUT
+
+25
+HEGGLI Bendik Jakobsen
+Byaasen IL
+14 OCT 2001
+NOR
+
+26
+HAYBOECK Michael
+UVB Hinzenbach-Oberoesterreich
+5 MAR 1991
+AUT
+
+27
+SATO Yukiya
+Megmilk Snow Brand Ski Team
+19 JUN 1995
+JPN
+
+28
+LINDVIK Marius
+Raelingen Skiklubb
+27 JUN 1998
+NOR
+
+29
+EISENBICHLER Markus
+TSV Siegsdorf
+3 APR 1991
+GER
+
+30
+FORFANG Johann Andre
+Tromsoe Skiklub
+4 JUL 1995
+NOR
+
+31
+NOUSIAINEN Eetu
+Puijo Ski club
+29 APR 1997
+FIN
+
+32
+KUBACKI Dawid
+TS Wisla Zakopane
+12 MAR 1990
+POL
+
+33
+PREVC Peter
+SK Triglav Kranj
+20 SEP 1992
+SLO
+
+34
+GEIGER Karl
+SC 1906 Oberstdorf
+11 FEB 1993
+GER
+
+35
+KOBAYASHI Ryoyu
+Tsuchiya Home Ski Team
+8 NOV 1996
+JPN
+
+36
+LANISEK Anze
+Ssk Menges
+20 APR 1996
+SLO
+
+37
+ZYLA Piotr
+WSS Wisla
+16 JAN 1987
+POL
+
+38
+JELAR Ziga
+Sk Triglav kranj
+22 OCT 1997
+SLO
+
+39
+ZAJC Timi
+SSK Ljubno BTC
+26 APR 2000
+SLO
+
+40
+KRAFT Stefan
+SV Schwarzach-Salzburg
+13 MAY 1993
+AUT
