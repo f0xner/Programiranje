@@ -1,0 +1,4 @@
+read x
+
+echo '#!/usr/bin/python3' >  day$x.py
+touch day$x"IN"
