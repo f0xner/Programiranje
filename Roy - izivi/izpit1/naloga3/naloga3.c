@@ -31,6 +31,11 @@ test02..test08: "se nekaj dodatnih testov
 
 int main() {
     // dopolnite ...
-
+    int d;
+    char S[d];
+    int n;
+    scanf("%d %s %d",&d,&S,&n);
+    
+    printf("%d %s %d",d,S,n);
     return 0;
 }

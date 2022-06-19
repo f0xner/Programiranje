@@ -28,47 +28,36 @@ test15..test17: samodejno izdelani, splo"sni
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#include <math.h>
 
 #include "naloga1.h"
 
 // Lahko dodate "se kak #include, pomo"zno funkcijo ipd.
 
 //============================================================================
-
-int sestEj(char* niz) {
-    int E = 0;
-    int stevk = 0;
-    char stevilo=0;
-    int vsota = 0;  
-    for (int i = 0;i<strlen(niz);i++){
-        if((niz[i] == '_' && E == 1 )){
-            printf("\n_");
-            E = 0;
-            if(stevk == 3){vsota += stevilo;
-            printf("%d v=%d\n",stevilo,vsota);}
-            stevilo = 0;
-        }
-        if(stevk >= 3){
-            E=0;
-            stevilo = 0;
-            stevk = 0;
-        }
-        if(E && stevk < 3){
-            if((niz[i]-'0')>=0 && (niz[i]-'0')<=9){
-                printf("%d | ",(niz[i]-'0'));
-                stevilo += (int)pow(10,(2-stevk))*((niz[i]-'0') == 0 ? 1: (niz[i]-'0'));
-                stevk++;
-            }else{
-                E = 0;
-                stevilo = 0;
-                stevk = 0;
-            }
-            
-        }
-        if(niz[i] == 'E')E = 1;
+int Pow(int n){
+    if (n == 0)return 1;
+    int vr = 1;
+    for (int i = 0;i<n;i++){
+        vr *= 10;
     }
-    printf("%d",vsota);
+    return vr;
+}
+int sestEj(char* niz) {
+    int vsota = 0;
+    for (int i = 0;i<strlen(niz);i++){
+        if(niz[i] == 'E' && niz[i+4] == '_'){
+            int stevka = 0;
+            for(int j = i+1,k=0;j<i+4;j++,k++){
+                if((niz[j]-'0')>=0 && (niz[j]-'0')<=9){
+                    stevka +=(int)(niz[j]-'0')*Pow(2-k);
+                }else{
+                    stevka = 0;
+                    break;
+                }
+            }
+            if(stevka>=100 && stevka <=999)vsota+=stevka;       
+        }
+    }
     return vsota;   // popravite
 }
 
