@@ -13,7 +13,7 @@ for i in range(0,len(bi_numbers[0])):
             most_commons[i][0]+=1
         if bi_numbers[j][i] == "1":
             most_commons[i][1]+=1
-print(most_commons)
+#print(most_commons)
 gama_rate = ""
 epsilon_rate = ""
 for most_common in most_commons:
@@ -31,11 +31,36 @@ for most_common in most_commons:
 # print(power_consumption)
 
 # === part 2 ===
-oxygen_generator_r_1 = bi_numbers
-oxygen_generator_r_2 = []
-C02_scrubber_r_1 = bi_numbers
-C02_scrubber_r_2 = []
-startswith = ""     
+oxygen_generator = bi_numbers
+oxygen_gen = bi_numbers
+oxy_rating = 0
+C02_scrubber = bi_numbers
+sW = ""
+for i in range(0,len(gama_rate)):
+    sW += gama_rate[i]
+    for j in range(0,len(oxygen_generator)-1):
+        if len(oxygen_gen) == 1:
+            oxy_rating = int(oxygen_generator[0],2)
+            print("oxy rating:",oxy_rating)
+            break
+        if not oxygen_generator[j].startswith(sW):
+            oxygen_gen.remove(oxygen_generator[i])
+    print(oxygen_gen,sW)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
 for i in range(0,len(gama_rate)):
     startswith += gama_rate[i]
     oxygen_generator_r_2 = []
@@ -72,3 +97,4 @@ for i in range(0,len(epsilon_rate)):
 print("oxy int: ",int(oxygen_generator_r_1[0],2))
 print("co2 int: ",int(C02_scrubber_r_1[0],2))
 print(int(C02_scrubber_r_1[0],2)*int(oxygen_generator_r_1[0],2))
+'''
